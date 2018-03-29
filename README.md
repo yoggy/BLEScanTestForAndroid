@@ -1,6 +1,11 @@
 BLEScanTestForAndroid
 ====
-How to get Manufacturer Specific Data in BLE_NON_CONN_IND.
+How to get Manufacturer Specific Data in BLE Advertising packet.
+
+BLE Advertising packet format
+----
+
+![img01.png](img01.png)
 
 Copyright and license
 ----
